@@ -16,37 +16,37 @@ This dashboard gives a complete view of business performance in one place and he
 
 1. KPI (Key Performance Indicators) Used
 
--> Total Sales
+✅ Total Sales
 Shows total revenue generated from all products.
 
 Why used:
 Helps track overall business growth.
 
--> Total Quantity Sold
+✅ Total Quantity Sold
 Displays total number of products sold.
 
 Why used:
 Measures demand and sales volume.
 
--> Total Cost
+✅ Total Cost
 Shows total cost spent on products.
 
 Why used:
 Helps compare spending with sales.
 
--> Total Orders
+✅ Total Orders
 Displays number of customer orders.
 
 Why used:
 Tracks order activity and performance.
 
--> Total Profit / Cost Analysis
+✅ Total Profit / Cost Analysis
 Used to compare sales vs cost.
 
 Why used:
 Helps identify profitability.
 
--> Supervisor / Manager Performance
+✅ Supervisor / Manager Performance
 Shows performance of each manager.
 
 Why used:
@@ -54,7 +54,7 @@ Helps compare team performance and productivity.
 
 2. Graphs / Charts Used
 
--> Clustered Column Chart
+✅ Clustered Column Chart
 
 Used for:
 Category vs Quantity Sold
@@ -64,17 +64,17 @@ Electronics
 Clothing
 Grocery / Product categories
 
--> Pie Chart
+✅ Pie Chart
 
 Used for:
 Brand-wise sales contribution
 
--> Map Chart
+Map Chart
 
 Used for:
 State-wise sales analysis
 
--> KPI Cards
+✅ KPI Cards
 
 Used for:
 Total Sales
@@ -82,7 +82,7 @@ Quantity
 Total Cost
 Orders
 
--> Slicer / Filter
+✅ Slicer / Filter
 
 Used for:
 Supervisor / Manager selection
